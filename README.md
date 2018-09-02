@@ -1,7 +1,7 @@
 # Juxtanet
 A simple implementation of image ranking using Keras.
 
-############################       ############################
+-----------------------------------------------------------------
 
 The "images" folder is a dump of all images available in our...
 dataset (note: all  classes are mixed).
